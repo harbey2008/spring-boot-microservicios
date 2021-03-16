@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.desarrollo.spring.boot</groupId>
-	<artifactId>springboot-servicios-productos</artifactId>
+	<artifactId>spring-boot-microservicios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-servicios-productos</name>
+	<name>spring-boot-microservicios</name>
 	<description>MicroServicios Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
